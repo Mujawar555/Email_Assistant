@@ -1,0 +1,1 @@
+Built an intelligent email automation workflow using n8n and Google Gemini, capable of classifying incoming emails, summarizing content, and generating context-aware replies. Integrated Gmail and Google Sheets APIs to automatically manage, label, and respond to categorized messages in real time.
